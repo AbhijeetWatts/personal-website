@@ -1,5 +1,5 @@
 ---
-title: 'Writings'
+title: 'Written Work'
 date: '2025-02-08T19:50:58+01:00'
 # weight: 1
 # aliases: ["/first"]
@@ -54,20 +54,11 @@ This page collects some writing I have done in the mathematical sphere.
 
 ---
 
-## Notes
-Sometimes I write notes on topics I'm interested in. They are not polished, and I rarely read them again after writing them. Therefore, expect that they should not be taken too seriously.
+## Expository Notes
+When learning new topics or preparing for a talk, I often find it very helpful to write out notes using LaTeX. This is a habit I picked up in the 2nd year of my undergraduate education and I find that it forces me to explain what I think I understand in my own words. Moreover, it is a useful way of keeping records of ideas and results discussed. The following are a selection of expository notes which I wrote for myself and some of them are book projects which I would like to eventually complete. I am putting them here in the hopes that they might be useful to someone and that I can obtain feedback about them. If you do have feedback and/or if you would like to collaborate on some writing project, then send me an email. 
 
-**Lecture notes on category theory.** Available [here](/writings/lectures.pdf). An assortment of lecture notes, primarily on category theory, in preparation for mostly private lectures
-to some friends. Don't have good name for it because it's not a focused project. *Dormant work in progress.*
 
-**Final objects in \\(\infty\\)-categories.** Available [here](/writings/higher-categories-learning-seminar-2025-01-15.pdf). Follows Cisinski's 2019 book. Written as lecture notes in
-preparation for a talk held in the introductory branch of a learning seminar on higher categories, organized by Bernhard Keller and Gustavo Jasso.
-
-**Commutative algebra.** Available [here](/writings/mma330-notes.pdf). Notes based on Miles Reid's book on commutative algebra. I wrote them while studying for a commutative algebra course (MMA330) taken at Göteborg University.
-I never quite finished them, as I didn't end up needing to.
-
-**Tensor algebras & polynomial rings.** Available [here](/writings/tensor-algebra.pdf). A very brief note that I wrote to help a friend of mine understand tensor algebras. I think there may be slightly unconventional
-notation in it.
+**The Lueck Approximation Theorem** Available [here](/writings/seminar-report-on-Ltwo-betti-numbers.pdf). A written report for two talks I gave for a [seminar](https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie_Seminare/S_MSc_Topologie_ws2025.html). The ultimate goal was to prove Lueck's Approximation Theorem but before that, I had to introduce spectral theory to an audience familiar with the basics of functional analysis. I managed to do this in a (in my opinion) clean way using some basic aspects of \\(C^{\star}\\)-algebra theory. 
 
 ---
 
@@ -77,5 +68,4 @@ notation in it.
 1. **BSc. Thesis.** My bachelor's thesis can be found [here](/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9061112">}} {{</badges>}}
 {reversed="reversed"}
 
-*Note.* My bachelor's thesis has many mistakes in it, and I've been working on personal notes which significantly improve upon it. Unfortunately, they are not complete enough for me to be comfortable releasing them.
-Due to other obligations, it is likely there will be quite some time until that changes.
+*Note.* Any mistakes in my Bachelor's or Master's thesis should be reported to me so that I can keep a record of them. It should be noted that much of what I have covered in my theses will appear in the expository notes above, in much more detail and (probably) more conceptually written. 
