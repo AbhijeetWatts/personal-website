@@ -48,6 +48,9 @@ This page lists various talks I have given in the past, along with the abstracts
 ## 2025
 
 - Elliott's Classification Theorem on Unital AF Algebras - **K-Theory of Operator Algebras reading group, Gruppen und Operatoralgebren-Treffen, University of Potsdam**
+- Synthetic Category Theory I: Introductory Axioms - **Higher Categories learning seminar, Humboldt-Universität zu Berlin**
+- Synthetic Category Theory II: The Segal and Rezk Axioms - **Higher Categories learning seminar, Humboldt-Universität zu Berlin**
+- Synthetic Category Theory III: Grothendieck Opfibrations \& The Yoneda Lemma - **Higher Categories learning seminar, Humboldt-Universität zu Berlin**
 
 ---
 
