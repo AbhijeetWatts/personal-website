@@ -81,6 +81,8 @@ This list is not exhaustive at all.
 
 ## Other Interests
 
+Beyond mathematics, I do also have other interests.
+
 #### Dungeons \& Dragons
 
 
