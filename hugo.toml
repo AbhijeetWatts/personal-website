@@ -79,7 +79,7 @@ block = true
   weight = 40
 
 [[menu.main]]
-  identifier = "projects"
+  identifier = "talks"
   name = "Talks"
   url = "/talks"
   weight = 40
