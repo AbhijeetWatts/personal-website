@@ -52,4 +52,6 @@ Many projects in this list are homotopically-flavored and that is partially due 
 
 ## Short-Term Projects
 
+While long-term projects can be good for making progress towards long-standing problems, there are plenty of short-term ``wins'' which are worth obtaining \& can be the impetus for collaborations between unlikely fields. So, it is worth our while to have a list of possible short-term projects that one can engage with; we describe these in some detail [here](https://abhijeetwatts.github.io/personal-website/projects/short-term-projects.pdf). The questions listed are usually (but not always!) stated in easy-to-understand language and could possibly be tackled by strong students. 
+
 
