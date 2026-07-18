@@ -54,9 +54,10 @@ I gave some talks in a learning seminar on higher categories organized at the Un
 - Connes' Characterization of Amenability - **Properties of Discrete Group Actions (lecture + seminar), Universität Leipzig**
 - The Proof of Rădulescu's Theorem \& The Connes Embedding Conjecture - **von Neumann Algebras (lecture + seminar), Universität Leipzig**
 - [Homotopical Structures in Operator Algebras I: The Schochet Property](https://www.math.uni-potsdam.de/institut/veranstaltungen/details-1/veranstaltungsdetails/homotopical-structures-in-operator-algebras-i-the-schochet-property) - **Gruppen und Operatoralgebren-Treffen, Universität Potsdam**
+- [Homotopical Structures in Operator Algebras II: The Spanier-Whitehead Construction](https://www.math.uni-potsdam.de/institut/veranstaltungen/details-1/veranstaltungsdetails/homotopical-structures-in-operator-algebras-ii-the-spanier-whitehead-construction) - **Gruppen und Operatoralgebren-Treffen, Universität Potsdam**
 - Axiomatic Homology on Operator Algebras - **\\(C^{\star}\\)-Algebras \& Nilpotent Groups reading seminar, Universität Potsdam**
 - The Proof of \\(C^{\star}\\)-Superrigidity - **\\(C^{\star}\\)-Algebras \& Nilpotent Groups reading seminar, Universität Potsdam**
-- [Homotopical Structures in Operator Algebras II: The Spanier-Whitehead Construction](https://www.math.uni-potsdam.de/institut/veranstaltungen/details-1/veranstaltungsdetails/homotopical-structures-in-operator-algebras-ii-the-spanier-whitehead-construction) - **Gruppen und Operatoralgebren-Treffen, Universität Potsdam**
+- [Ergodic Theorems on von Neumann Algebras](https://www.math.uni-leipzig.de/~eisner/Ergodic-Theory-SS2026.html) - **Ergodic Theory (lecture + seminar), Universität Leipzig**
 - [The BDF Ext Groups, Schochet C*-algebras \& Semiprojectivity](https://www.raum-brothers.eu/sven/AD-2026-07.html) - **Around the Arveson-Douglas Conjecture, Universität Potsdam**
 
 
