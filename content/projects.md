@@ -39,9 +39,8 @@ UseHugoToc: true
 
 
 
-## Semiprojectivity of \\(C^{\star}\\)-Algebras \& Noncommutative Shape Theory
-
+## Semiprojectivity \& Noncommutative Shape Theory
 
 ## A Homotopical Approach Towards Classifying Leavitt Path Algebras
 
-## Computations of \\(K\\)-Theory of Crossed Products of Hecke \\(C^{\star}\\)-Algebras
+## Computations of K-Theory of Crossed Products of Hecke Operator-Algebras

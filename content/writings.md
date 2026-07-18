@@ -65,7 +65,7 @@ When learning new topics or preparing for a talk, I often find it very helpful t
 ## BSc. & MSc. Theses
 
 1. **MSc. Thesis.** My master's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/masters-thesis.pdf).
-2. **BSc. Thesis.** My bachelor's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9129834">}} {{</badges>}}
+1. **BSc. Thesis.** My bachelor's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9129834">}} {{</badges>}}
 {reversed="reversed"}
 
 *Note.* Any mistakes in my Bachelor's or Master's thesis should be reported to me so that I can keep a record of them. It should be noted that much of what I have covered in my theses will appear in the expository notes above, in much more detail and (probably) more conceptually written. 

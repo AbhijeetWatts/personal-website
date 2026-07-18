@@ -36,11 +36,15 @@ UseHugoToc: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-This is the teaching I have been officially involved with.
+This is the teaching I have been involved with, either officially or unofficially. I will also include various seminars I have organized.
 
 ## Teaching Assistance
 
 Below is a summary of the courses I have been a teaching assistant for.
+
+### University of Haifa/University of Potsdam
+
+### Humboldt-Universität zu Berlin
 
 #### Lund University
 
