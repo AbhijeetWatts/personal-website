@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abhijeet Vats</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Abhijeet Vats</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Feb 2026 14:51:36 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Tue, 10 Feb 2026 14:51:36 +0100</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;p&gt;This is the teaching I have been officially involved with.&lt;/p&gt;
+&lt;h2 id=&#34;teaching-assistance&#34;&gt;Teaching Assistance&lt;/h2&gt;
+&lt;p&gt;Below is a summary of the courses I have been a teaching assistant for.&lt;/p&gt;
+&lt;h4 id=&#34;university-of-luxembourg&#34;&gt;University of Luxembourg&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Note: BiCS = Bachelor in Computer Science.&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;2025, Winter:&lt;/strong&gt; &lt;em&gt;F1_BAINFOR-8.&lt;/em&gt; Linear algebra 1 (BiCS).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026, Summer:&lt;/strong&gt; &lt;em&gt;F1_BAINFOR-14.&lt;/em&gt; Linear algebra 2 (BiCS).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;p&gt;Below is a summary of the theses and projects I have supervised.&lt;/p&gt;
+&lt;h4 id=&#34;university-of-luxembourg-1&#34;&gt;University of Luxembourg&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;2026, Summer:&lt;/strong&gt; Kim Lazzeri. &lt;em&gt;Introduction to Category Theory.&lt;/em&gt; (Note: focus on the general adjoint functor theorem). Bachelor&amp;rsquo;s thesis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026, Summer:&lt;/strong&gt; Andrea Cunha Oliveira. &lt;em&gt;Introduction to Category Theory.&lt;/em&gt; (Note: focus on Beck&amp;rsquo;s monadicity theorem). Bachelor&amp;rsquo;s thesis.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Writings</title>
+      <link>http://localhost:1313/writings/</link>
+      <pubDate>Sat, 08 Feb 2025 19:50:58 +0100</pubDate>
+      <guid>http://localhost:1313/writings/</guid>
+      <description>&lt;p&gt;This page collects some writing I have done in the mathematical sphere.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ol reversed=&#34;reversed&#34;&gt;
+&lt;li&gt;Troedsson, E., Falkowski, D., &lt;strong&gt;Lidgren, C-F.&lt;/strong&gt;, Wendt, H., Carlsson, M., &lt;em&gt;A theoretical study of the objective-functional for joint eigen-decomposition of matrices.&lt;/em&gt; SIAM Journal on Matrix Analysis and Applications, Vol. 46 (2025), Issue 3, p. 2061&amp;ndash;2079.
+&lt;p class=&#34;badge&#34;&gt;&lt;/p&gt;&lt;span class=&#34;id&#34;&gt;&lt;a class=&#34;a-badge&#34; href=&#34;https://arxiv.org/abs/2409.10292&#34;&gt;&lt;span class=&#34;id-type id-arxiv&#34;&gt;arXiv&lt;/span&gt;&lt;span class=&#34;id-key&#34;&gt;2409.10292&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;span class=&#34;id&#34;&gt;&lt;a class=&#34;a-badge&#34; href=&#34;https://mathscinet.ams.org/mathscinet/article?mr=4959926&#34;&gt;&lt;span class=&#34;id-type id-mr&#34;&gt;MR&lt;/span&gt;&lt;span class=&#34;id-key&#34;&gt;4959926&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;span class=&#34;id&#34;&gt;&lt;a class=&#34;a-badge&#34; href=&#34;https:/doi.org/10.1137/24M171351X&#34;&gt;&lt;span class=&#34;id-type id-doi&#34;&gt;DOI&lt;/span&gt;&lt;span class=&#34;id-key&#34;&gt;10.1137/24M171351X&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+&lt;ol reversed=&#34;reversed&#34;&gt;
+&lt;li&gt;Falkowski, D., &lt;strong&gt;Lidgren, C-F.&lt;/strong&gt;, &lt;em&gt;Conjugating by singular operators: On the boundedness of similarity transforms near singular points.&lt;/em&gt;
+&lt;p class=&#34;badge&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/music/</link>
+      <pubDate>Sat, 08 Feb 2025 19:50:24 +0100</pubDate>
+      <guid>http://localhost:1313/music/</guid>
+      <description>&lt;p&gt;I make experimental rock music, available on &lt;a href=&#34;https://gren.bandcamp.com&#34; title=&#34;Grenly | Bandcamp&#34;&gt;bandcamp&lt;/a&gt;. On the bottom of this page, I have embedded all albums from my bandcamp page for ease of access,
+in reverse-chronological order. There is over 20 hours of music.&lt;/p&gt;
+&lt;p&gt;I recommend &lt;em&gt;Looking Down Into a Hole&lt;/em&gt; and &lt;em&gt;Landscape Impressions.&lt;/em&gt; More recently, &lt;em&gt;Music Without Motion.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve played piano since 2006, when I was 6 years old. More recently, I picked up guitar around 2018. I am also able to make semi-reasonable noises on saxophone. Besides those, I&amp;rsquo;ve tried
+playing drums, cello, violin, accordion, trombone, and sitar with varying levels of success.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Sat, 08 Feb 2025 19:14:43 +0100</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>&lt;p&gt;I am a PhD student at Haifa University/University of Potsdam, working under the supervision of &lt;a href=&#34;https://adoronmath.wordpress.com/&#34;&gt;Adam Dor-On&lt;/a&gt; and &lt;a href=&#34;https://raum-brothers.eu/sven/&#34;&gt;Sven Raum&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have an interest in mathematics and music. See &lt;a href=&#34;http://localhost:1313/writings&#34;&gt;writings&lt;/a&gt; for a collection of my mathematical work.&lt;/p&gt;
+&lt;p&gt;For inquiries related to mathematics, consider contacting me at my university email:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;carl-fredrik.lidgren (at) uni.lu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;mathematical-interests&#34;&gt;Mathematical Interests&lt;/h2&gt;
+&lt;p&gt;The crux of my interests falls within the intersection between geometry and \(\infty\)-categories. Aside from that, I like category theory and abstract homotopy theory.
+Below, I have tried to compile a list of some things I&amp;rsquo;ve found interesting, whether or not I know anything deep about them.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+
+.button {
+    background-color: rgb(7, 39, 180);
+    border-radius: 20px;
+    border-color: rgb(0, 33, 66);
+    border-style: solid;
+    border-width: 1px;
+}
+
+.button-inner {
+    vertical-align: text-bottom;
+}
