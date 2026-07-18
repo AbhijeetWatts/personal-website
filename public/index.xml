@@ -49,15 +49,13 @@
 &lt;p class=&#34;badge&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Music</title>
-      <link>http://localhost:1313/music/</link>
+      <title>Mathematical Projects</title>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Sat, 08 Feb 2025 19:50:24 +0100</pubDate>
-      <guid>http://localhost:1313/music/</guid>
-      <description>&lt;p&gt;I make experimental rock music, available on &lt;a href=&#34;https://gren.bandcamp.com&#34; title=&#34;Grenly | Bandcamp&#34;&gt;bandcamp&lt;/a&gt;. On the bottom of this page, I have embedded all albums from my bandcamp page for ease of access,
-in reverse-chronological order. There is over 20 hours of music.&lt;/p&gt;
-&lt;p&gt;I recommend &lt;em&gt;Looking Down Into a Hole&lt;/em&gt; and &lt;em&gt;Landscape Impressions.&lt;/em&gt; More recently, &lt;em&gt;Music Without Motion.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve played piano since 2006, when I was 6 years old. More recently, I picked up guitar around 2018. I am also able to make semi-reasonable noises on saxophone. Besides those, I&amp;rsquo;ve tried
-playing drums, cello, violin, accordion, trombone, and sitar with varying levels of success.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;semiprojectivity-of-cstar-algebras--noncommutative-shape-theory&#34;&gt;Semiprojectivity of \(C^{\star}\)-Algebras &amp;amp; Noncommutative Shape Theory&lt;/h2&gt;
+&lt;h2 id=&#34;a-homotopical-approach-towards-classifying-leavitt-path-algebras&#34;&gt;A Homotopical Approach Towards Classifying Leavitt Path Algebras&lt;/h2&gt;
+&lt;h2 id=&#34;computations-of-k-theory-of-crossed-products-of-hecke-cstar-algebras&#34;&gt;Computations of \(K\)-Theory of Crossed Products of Hecke \(C^{\star}\)-Algebras&lt;/h2&gt;</description>
     </item>
     <item>
       <title>About Me</title>
