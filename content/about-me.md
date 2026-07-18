@@ -40,7 +40,7 @@ math: true
 I am a PhD student in mathematics at the University of Haifa and the University of Potsdam, working under the supervision of [Adam Dor-On](https://adoronmath.wordpress.com/) and [Sven Raum](https://raum-brothers.eu/sven/).
 
 
-See [writings](https://abhijeetwatts.github.io/personal-website/writings/) for a collection of my mathematical work.
+See [written work](https://abhijeetwatts.github.io/personal-website/writings/) for a collection of my mathematical work.
 
 For inquiries related to mathematics, consider contacting me at my university email:
 - a.vats.math (at) gmail.com

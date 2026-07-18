@@ -42,17 +42,11 @@ This is the teaching I have been officially involved with.
 
 Below is a summary of the courses I have been a teaching assistant for.
 
-#### University of Luxembourg
-*Note: BiCS = Bachelor in Computer Science.*
-1. **2025, Winter:** *F1_BAINFOR-8.* Linear algebra 1 (BiCS).
-2. **2026, Summer:** *F1_BAINFOR-14.* Linear algebra 2 (BiCS).
+#### Lund University
 
----
+1. **2021, Summer:** *Student Mentor* Anaysis in One Variable (MATA21).
+2. **2022, Winter:** *Student Mentor.* Anaysis in One Variable (MATA21).
+3. **2022, Winter:** *Organizer.* MUR Mathematics Circle.
 
-## Supervision
+**Note:** MUR means [Matematiker Utan Randvillkor](https://www.maths.lu.se/utbildning/kandidatprogram/matematikernas-utbildningsraad/). This is the mathematics student council of Lund University and I was chairperson from 2021-2022, having organized the MUR Mathematics Circle for students interested in learning mathematics beyond that covered in courses. 
 
-Below is a summary of the theses and projects I have supervised.
-
-#### University of Luxembourg
-1. **2026, Summer:** Kim Lazzeri. *Introduction to Category Theory.* (Note: focus on the general adjoint functor theorem). Bachelor's thesis.
-2. **2026, Summer:** Andrea Cunha Oliveira. *Introduction to Category Theory.* (Note: focus on Beck's monadicity theorem). Bachelor's thesis.

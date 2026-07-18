@@ -41,16 +41,16 @@ This page collects some writing I have done in the mathematical sphere.
 
 ---
 
-## Publications
-1. Troedsson, E., Falkowski, D., **Lidgren, C-F.**, Wendt, H., Carlsson, M., _A theoretical study of the objective-functional for joint eigen-decomposition of matrices._ SIAM Journal on Matrix Analysis and Applications, Vol. 46 (2025), Issue 3, p. 2061--2079.
-{{<badges>}}{{< arxiv "2409.10292">}} {{< mr "4959926" >}} {{< doi "10.1137/24M171351X">}}{{</badges>}}
-{reversed="reversed"}
+<!-- ## Publications -->
 
 ## Preprints
 
+1. 
+
+<!-- 
 1. Falkowski, D., **Lidgren, C-F.**, _Conjugating by singular operators: On the boundedness of similarity transforms near singular points._
 {{<badges>}} {{< arxiv "2410.19161" >}} {{</badges>}}
-{reversed="reversed"}
+{reversed="reversed"} -->
 
 ---
 
@@ -64,8 +64,8 @@ When learning new topics or preparing for a talk, I often find it very helpful t
 
 ## BSc. & MSc. Theses
 
-1. **MSc. Thesis.** My master's thesis can be found [here](/writings/masters-thesis.pdf) or at: {{<badges>}} {{<lup "9151011">}} {{</badges>}}
-1. **BSc. Thesis.** My bachelor's thesis can be found [here](/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9061112">}} {{</badges>}}
+1. **MSc. Thesis.** My master's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/masters-thesis.pdf).
+2. **BSc. Thesis.** My bachelor's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9129834">}} {{</badges>}}
 {reversed="reversed"}
 
 *Note.* Any mistakes in my Bachelor's or Master's thesis should be reported to me so that I can keep a record of them. It should be noted that much of what I have covered in my theses will appear in the expository notes above, in much more detail and (probably) more conceptually written. 
