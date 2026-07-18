@@ -73,7 +73,7 @@ This list is not exhaustive at all.
 *Grade:* TBD.
 
 **2018--2021.** _Bachelor of Science_ in mathematics, at Lund University, Sweden.\
-*Thesis:* The Path To Gelfand Duality \& Spectral Theory.\
+*Thesis:* [The Path To Gelfand Duality \& Spectral Theory].\
 *Advisor:* Prof. Dr. Sandra Pott and Dr. Jörg Weber.\
 *Grade:* VG (Pass with distinction).
 
@@ -82,10 +82,5 @@ This list is not exhaustive at all.
 ## Other Interests
 
 #### Dungeons \& Dragons
-I've had an on-and-off interest in programming since I was in middle school. At some point, I chose to focus on math instead, but I still retain a basic
-interest in programming and computers. One day, I will write a toy program in `rust` (actually, I want to write an actually good, native linux music player and organizer à la MusicBee on Windows).
-I've done a lot of python programming. I also have a small amount of experience with Haskell, from taking a course on functional programming at LTH in Lund, Sweden. It's
-a neat language. I've played around a little bit with Lean in the past, but not a whole lot.
 
-For anyone wishing to dump Windows and move to linux, I recommend CachyOS.
 
