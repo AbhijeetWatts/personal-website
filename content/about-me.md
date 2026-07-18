@@ -72,7 +72,7 @@ Here are some topics I would like to learn in the future:
 - the use of derived categories in functional analysis and in rigid analytic geometry,
 - condensed mathematics.
 
-I find myself interested both in solving problems and understanding general structures. So, the topics above have been chosen to reflect subjects which involve a problem-solving component and, at the same time, also involve a strong structural component.  
+I find myself interested both in solving problems and understanding general structures. So, the topics above have been chosen to reflect subjects which involve a problem-solving component and, at the same time, also involve a strong structural component which requires theory-building. 
 
 ### Education
 
@@ -94,7 +94,7 @@ I find myself interested both in solving problems and understanding general stru
 
 ## Other Interests
 
-Beyond mathematics, I do also have other interests.
+Beyond mathematics, I do also have other interests, though I pursue them to varying degrees.
 
 ### Dungeons \& Dragons
 
