@@ -43,7 +43,7 @@ I am a PhD student at Haifa University/University of Potsdam, working under the 
 I have an interest in mathematics and music. See [writings](/writings) for a collection of my mathematical work.
 
 For inquiries related to mathematics, consider contacting me at my university email:
-- carl-fredrik.lidgren (at) uni.lu
+- a.vats.math (at) gmail.com
 
 ---
 
