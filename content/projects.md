@@ -36,11 +36,20 @@ UseHugoToc: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
+This page contains information about some research projects which I am currently engaged with or would like to work on sometime in the future. I have divided these up into long-term and short-term projects. The long-term projects could easily take years of effort to complete, while short-term projects are meant to ``require'' only 6-12 months of effort.
 
 
+## Long-Term Projects
 
-## Semiprojectivity \& Noncommutative Shape Theory
+These are described in some detail [here](https://abhijeetwatts.github.io/personal-website/projects/long-term-projects.pdf). Broadly speaking, the following titles describe the projects that I am currently thinking about in some capacity:
+- Semiprojectivity of \\(C^{\star}\\)-Algebras \& noncommutative shape theory.
+- A homotopical/categorical approach to classifying Leavitt path algebras.
+- Computations of K-Theory of crossed products of Hecke \\(C^{\star}\\)-algebras of right-angled Coxeter groups via \\(\infty\\)-categorical enhancements of bivariant homology theories. 
+- Scheme-theoretic approach to the Arveson-Douglas Conjecture.
 
-## A Homotopical Approach Towards Classifying Leavitt Path Algebras
+Many projects in this list are homotopically-flavored and that is partially due to the earlier influence of homotopy theory on my approach to thinking about operator-algebraic problems. Nevertheless, I do find the all-encompassing spirit of noncommutative geometry to be very appealing and I am open-minded about applying a wide-range of methods to the projects above (and below!). 
 
-## Computations of K-Theory of Crossed Products of Hecke Operator-Algebras
+
+## Short-Term Projects
+
+

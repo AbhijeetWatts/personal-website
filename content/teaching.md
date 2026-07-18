@@ -46,11 +46,14 @@ Below is a summary of the courses I have been a teaching assistant for.
 
 ### Humboldt-Universität zu Berlin
 
-#### Lund University
+1. **2025, Summer** *Co-organizer* \\(\infty\\)-categories reading seminar.
+2. **2025-2026, Winter** *Co-organizer* Algebraic \\(K\\)-theory reading seminar.
+
+### Lund University
 
 1. **2021, Summer:** *Student Mentor* Anaysis in One Variable (MATA21).
-2. **2022, Winter:** *Student Mentor.* Anaysis in One Variable (MATA21).
-3. **2022, Winter:** *Organizer.* MUR Mathematics Circle.
+2. **2022-2023, Winter:** *Student Mentor.* Anaysis in One Variable (MATA21).
+3. **2022-2023, Winter:** *Organizer.* MUR Mathematics Circle.
 
 **Note:** MUR means [Matematiker Utan Randvillkor](https://www.maths.lu.se/utbildning/kandidatprogram/matematikernas-utbildningsraad/). This is the mathematics student council of Lund University and I was chairperson from 2021-2022, having organized the MUR Mathematics Circle for students interested in learning mathematics beyond that covered in courses. 
 

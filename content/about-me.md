@@ -51,7 +51,7 @@ You may feel free to address me as Abhi :)
 
 ## Mathematical Interests
 
-I have an interest in operator algebras, noncommutative geometry and related areas. The following is a precise list of topics that I find interesting:
+I have an interest in operator algebras, noncommutative geometry and related areas. The following is a precise list of topics that I know something about and currently find interesting:
 
 - the \\(K\\)-theory of operator algebras,
 - algebraic \\(K\\)-theory (with a particular interest towards the modern theory with relation to higher category theory),
@@ -59,9 +59,17 @@ I have an interest in operator algebras, noncommutative geometry and related are
 - applications of operator algebras towards mathematical physics,
 - symbolic dynamics, Leavitt path algebras \& connections to operator algebraic structures and algebraic K-theory,
 - geometric group theory, especially in (bounded) cohomology and its applications to various analytic properties of groups and their operator algebras,
-- the classification theory of \\(C^{\star}\\)-algebras.
+- the classification theory of \\(C^{\star}\\)-algebras,
+- the isomorphism conjectures. 
 
-This list is not exhaustive at all. 
+Here are some topics I would like to learn in the future:
+
+- further aspects of higher algebra (\\(\infty\\)-operads and \\(\infty\\)-topos theory),
+- Galois theory \& some algebraic number theory (since I would like to work with ring \\(C^{\star}\\)-algebras),
+- topological dynamics,
+- 
+
+In general, I find myself interested both in solving problems and understanding general structures. 
 
 ### Education
 
