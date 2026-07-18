@@ -46,8 +46,8 @@ Below is a summary of the courses I have been a teaching assistant for.
 
 ### Humboldt-Universität zu Berlin
 
-1. **2025, Summer** *Co-organizer* \\(\infty\\)-categories reading seminar.
-2. **2025-2026, Winter** *Co-organizer* Algebraic \\(K\\)-theory reading seminar.
+1. **2025, Summer** *Co-organizer* Higher Categories reading seminar.
+2. **2025-2026, Winter** *Co-organizer* Algebraic K-theory reading seminar.
 
 ### Lund University
 
