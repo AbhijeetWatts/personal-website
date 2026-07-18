@@ -40,15 +40,19 @@ block = true
 
   [[params.profileMode.buttons]]
   name = "Writings"
-  url = "/writings"
+  url = "https://abhijeetwatts.github.io/personal-website/writings/"
 
   [[params.profileMode.buttons]]
   name = "Teaching"
-  url = "/teaching"
+  url = "https://abhijeetwatts.github.io/personal-website/teaching/"
 
   [[params.profileMode.buttons]]
   name = "Mathematical Projects"
-  url = "/projects"
+  url = "https://abhijeetwatts.github.io/personal-website/projects/"
+
+  [[params.profileMode.buttons]]
+  name = "Talks"
+  url = "https://abhijeetwatts.github.io/personal-website/talks/"
 
 [[menu.main]]
   identifier = "about-me"
@@ -72,6 +76,12 @@ block = true
   identifier = "projects"
   name = "Mathematical Projects"
   url = "/projects"
+  weight = 40
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Talks"
+  url = "/talks"
   weight = 40
 
 [caches]
