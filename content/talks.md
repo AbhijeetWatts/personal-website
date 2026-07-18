@@ -59,7 +59,7 @@ I gave some talks in a learning seminar on higher categories organized at the Un
 - The Proof of \\(C^{\star}\\)-Superrigidity - **\\(C^{\star}\\)-Algebras \& Nilpotent Groups reading seminar, Universität Potsdam**
 - [Ergodic Theorems on von Neumann Algebras](https://www.math.uni-leipzig.de/~eisner/Ergodic-Theory-SS2026.html) - **Ergodic Theory (lecture + seminar), Universität Leipzig**
 - [The BDF Ext Groups, Schochet C*-algebras \& Semiprojectivity](https://www.raum-brothers.eu/sven/AD-2026-07.html) - **Around the Arveson-Douglas Conjecture, Universität Potsdam**
-
+- [Monodromy \& Braid Group Representations](https://math-inf.uni-greifswald.de/forschung/algebra-geometrie-und-topologie/juniorprofessur-agt/seminar-in-thiessow/) - **Seminar on Vertex Operator Algebras in Thiessow, Universität Greifswald**
 
 ---
 
