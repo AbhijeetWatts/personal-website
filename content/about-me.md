@@ -65,11 +65,14 @@ I have an interest in operator algebras, noncommutative geometry and related are
 Here are some topics I would like to learn in the future:
 
 - further aspects of higher algebra (\\(\infty\\)-operads and \\(\infty\\)-topos theory),
-- Galois theory \& some algebraic number theory (since I would like to work with ring \\(C^{\star}\\)-algebras),
+- Galois theory \& some algebraic number theory (since I would like to work with ring \\(C^{\star}\\)-algebras and also number-theoretic problems in relation to algebraic \\(K\\)-theory),
 - topological dynamics,
-- 
+- differential geometry, with a focus towards index theory and its connections with bivariant homology theories on categories of operator algebras,
+- complex algebraic/analytic geometry and its applications towards the Arveson-Douglas conjecture,
+- the use of derived categories in functional analysis and in rigid analytic geometry,
+- condensed mathematics.
 
-In general, I find myself interested both in solving problems and understanding general structures. 
+I find myself interested both in solving problems and understanding general structures. So, the topics above have been chosen to reflect subjects which involve a problem-solving component and, at the same time, also involve a strong structural component.  
 
 ### Education
 

@@ -42,9 +42,9 @@ This page contains information about some research projects which I am currently
 ## Long-Term Projects
 
 These are described in some detail [here](https://abhijeetwatts.github.io/personal-website/projects/long-term-projects.pdf). Broadly speaking, the following titles describe the projects that I am currently thinking about in some capacity:
-- Semiprojectivity of \\(C^{\star}\\)-Algebras \& noncommutative shape theory.
+- Semiprojectivity of C*-Algebras \& noncommutative shape theory.
 - A homotopical/categorical approach to classifying Leavitt path algebras.
-- Computations of K-Theory of crossed products of Hecke \\(C^{\star}\\)-algebras of right-angled Coxeter groups via \\(\infty\\)-categorical enhancements of bivariant homology theories. 
+- Computations of K-Theory of crossed products of Hecke C*-algebras of right-angled Coxeter groups via higher categorical enhancements of bivariant homology theories. 
 - Scheme-theoretic approach to the Arveson-Douglas Conjecture.
 
 Many projects in this list are homotopically-flavored and that is partially due to the earlier influence of homotopy theory on my approach to thinking about operator-algebraic problems. Nevertheless, I do find the all-encompassing spirit of noncommutative geometry to be very appealing and I am open-minded about applying a wide-range of methods to the projects above (and below!). 

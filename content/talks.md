@@ -47,12 +47,17 @@ This page lists various talks I have given in the past, along with the abstracts
 
 ## 2025
 
+- Elliott's Classification Theorem on Unital AF Algebras - **K-Theory of Operator Algebras reading group, Gruppen und Operatoralgebren-Treffen, University of Potsdam**
+
 ---
 
 ## 2024
 
----
+- An Overview of Tomita-Takesaki Theory - **Tomita-Takesaki Theory reading group, Gruppen und Operatoralgebren-Treffen, University of Potsdam**
+- Closability of pre-Tomita Operators \& The Connes-Radon-Nikodym Theorem - **Tomita-Takesaki Theory reading group, Gruppen und Operatoralgebren-Treffen, University of Potsdam**
+- The Representation Theory of Locally Compact Groups - **Representation Theory of Finite Groups seminar, Humboldt-Universität zu Berlin**
 
-## 2023
+
+---
 
 

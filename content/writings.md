@@ -37,7 +37,7 @@ math: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-This page collects some writing I have done in the mathematical sphere.
+This page collects some of my writing. Some of this includes writing for research but a lot of it also includes expository writing. When learning new topics or preparing for a talk, I often find it very helpful to write out notes using LaTeX. This is a habit I picked up in the 2nd year of my undergraduate education and I find that it forces me to explain what I think I understand in my own words. Moreover, it is a useful way of keeping records of ideas and results discussed during various seminars/conferences. 
 
 ---
 
@@ -55,7 +55,6 @@ This page collects some writing I have done in the mathematical sphere.
 ---
 
 ## Expository Notes
-When learning new topics or preparing for a talk, I often find it very helpful to write out notes using LaTeX. This is a habit I picked up in the 2nd year of my undergraduate education and I find that it forces me to explain what I think I understand in my own words. Moreover, it is a useful way of keeping records of ideas and results discussed during various seminars/conferences. 
 
 The following are a selection of expository notes which I wrote for myself and some of them are book projects which I would like to eventually complete. I am putting them here in the hopes that they might be useful to someone and that I can obtain feedback about them. If you do have feedback and/or if you would like to collaborate on some writing project, then send me an email. 
 
