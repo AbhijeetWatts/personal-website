@@ -45,7 +45,7 @@ This page collects some writing I have done in the mathematical sphere.
 
 ## Preprints
 
-1. 
+1. **Vats, A.**, _The Schochet Property \& Lifting Problems_ (In Preparation)
 
 <!-- 
 1. Falkowski, D., **Lidgren, C-F.**, _Conjugating by singular operators: On the boundedness of similarity transforms near singular points._

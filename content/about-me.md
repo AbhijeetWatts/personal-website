@@ -42,8 +42,10 @@ I am a PhD student in mathematics at the University of Haifa and the University 
 
 See [written work](https://abhijeetwatts.github.io/personal-website/writings/) for a collection of my mathematical work.
 
-For inquiries related to mathematics, consider contacting me at my university email:
+For inquiries related to mathematics or other topics, feel free to contact me via the following email:
 - a.vats.math (at) gmail.com
+
+You may feel free to address me as Abhi :)
 
 ---
 
