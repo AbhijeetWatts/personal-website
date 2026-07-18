@@ -47,8 +47,6 @@ This page lists various talks I have given in the past, along with the abstracts
 
 ## 2025
 
-
-
 ---
 
 ## 2024

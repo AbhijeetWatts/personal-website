@@ -82,7 +82,7 @@ block = true
   identifier = "talks"
   name = "Talks"
   url = "/talks"
-  weight = 40
+  weight = 50
 
 [caches]
   [caches.images]
