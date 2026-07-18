@@ -32,7 +32,7 @@ block = true
 
   [params.profileMode]
   enabled=true
-  subtitle='Mathematician.'
+  subtitle='Mathematician'
 
   [[params.profileMode.buttons]]
   name = "About Me"
@@ -47,8 +47,8 @@ block = true
   url = "/teaching"
 
   [[params.profileMode.buttons]]
-  name = "Music"
-  url = "/music"
+  name = "Mathematical Projects"
+  url = "/projects"
 
 [[menu.main]]
   identifier = "about-me"
