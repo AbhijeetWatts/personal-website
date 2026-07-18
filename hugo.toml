@@ -40,15 +40,15 @@ block = true
 
   [[params.profileMode.buttons]]
   name = "Writings"
-  url = "https://abhijeetwatts.github.io/personal-website/writings/"
+  url = "/writings"
 
   [[params.profileMode.buttons]]
   name = "Teaching"
-  url = "https://abhijeetwatts.github.io/personal-website/teaching/"
+  url = "/teaching"
 
   [[params.profileMode.buttons]]
   name = "Mathematical Projects"
-  url = "https://abhijeetwatts.github.io/personal-website/projects/"
+  url = "/projects"
 
 [[menu.main]]
   identifier = "about-me"
