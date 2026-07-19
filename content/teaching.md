@@ -44,10 +44,17 @@ Below is a summary of the courses I have been a teaching assistant for.
 
 ### University of Haifa/University of Potsdam
 
+1. **2027, Summer** *Organizer* Model Theory of Operator Algebras.
+2. **2027-2028, Winter** *Organizer* Dualizable Categories in Noncommutative Geometry.
+3. **2028, Summer** *Organizer* Free Probability Theory \& Random Matrices.
+4. **2028-2029, Winter** *Organizer* The Atiyah-Singer Index Theorem.
+5. **2029, Summer** *Organizer* Complex Analytic Geometry.
+6. **2029-2030, Winter** *Organizer* Spectral Decompositions of Analytic Sheaves.
+
 ### Humboldt-Universität zu Berlin
 
 1. **2025, Summer** *Co-organizer* Higher Categories reading seminar.
-2. **2025-2026, Winter** *Co-organizer* Algebraic K-theory reading seminar; see [here](https://abhijeetwatts.github.io/personal-website/teaching/k-theory-seminar.pdf) for the plan.
+2. **2025-2026, Winter** *Co-organizer*  [Algebraic K-theory](https://abhijeetwatts.github.io/personal-website/teaching/k-theory-seminar.pdf)reading seminar.
 
 ### Lund University
 
