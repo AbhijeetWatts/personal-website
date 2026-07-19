@@ -54,7 +54,7 @@ Below is a summary of the courses I have been a teaching assistant for.
 ### Humboldt-Universität zu Berlin
 
 1. **2025, Summer** *Co-organizer* Higher Categories reading seminar.
-2. **2025-2026, Winter** *Co-organizer*  [Algebraic K-theory](https://abhijeetwatts.github.io/personal-website/teaching/k-theory-seminar.pdf)reading seminar.
+2. **2025-2026, Winter** *Co-organizer*  [Algebraic K-theory](https://abhijeetwatts.github.io/personal-website/teaching/k-theory-seminar.pdf) reading seminar.
 
 ### Lund University
 
