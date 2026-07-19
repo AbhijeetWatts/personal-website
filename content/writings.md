@@ -68,7 +68,9 @@ The following are a selection of expository notes which I wrote for myself and s
 
 **Algebra II** To be included here soon.
 
-**Topology** To be included here soon.
+**Topology I** To be included here soon.
+
+**Topology II** To be included here soon.
 
 **Operator Algebraic Structures I** To be included here soon.
 
@@ -77,6 +79,14 @@ The following are a selection of expository notes which I wrote for myself and s
 **Noncommutative Algebraic Topology I** To be included here soon.
 
 **Noncommutative Algebraic Topology II** To be included here soon.
+
+**Noncommutative Geometry I** To be included here soon.
+
+**Noncommutative Geometry II** To be included here soon.
+
+**Noncommutative Geometry III** To be included here soon.
+
+**Noncommutative Geometry IV** To be included here soon.
 
 **The Lueck Approximation Theorem** Available [here](https://abhijeetwatts.github.io/personal-website/writings/seminar-report-on-Ltwo-betti-numbers.pdf). This is a written report for two talks I gave for a [seminar](https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie_Seminare/S_MSc_Topologie_ws2025.html) on \\(L^2\\)-Betti numbers \& their applications. The ultimate goal was to prove Lueck's Approximation Theorem but before that, I had to introduce spectral theory to an audience familiar with the basics of functional analysis. I managed to do this in a (in my opinion) clean way using some basic aspects of \\(C^{\star}\\)-algebra theory. 
 
