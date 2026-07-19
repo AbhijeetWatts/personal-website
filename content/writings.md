@@ -82,7 +82,7 @@ The following are a selection of expository notes which I wrote for myself and s
 
 **Spectral Flow \& K-Theory**
 
-**Tomita-Takesaki Modular Theory** Avaible [here](https://abhijeetwatts.github.io/personal-website/writings/tomita-takesaki-modular-theory-notes.pdf). This is a set of notes that I prepared for a learning seminar on Tomita-Takesaki organized by the operator algebras group at Universität Potsdam in Summer 2024. At that time, I had just finished by Bachelor's degree and I barely knew how to write mathematics, so these notes are severely incomplete \& are not very well-written. At the moment, they are superseded by my treatment of von Neumann algebra theory in Operator Algebraic Structures II. 
+**Tomita-Takesaki Modular Theory** Available [here](https://abhijeetwatts.github.io/personal-website/writings/tomita-takesaki-modular-theory-notes.pdf). This is a set of notes that I prepared for a learning seminar on Tomita-Takesaki organized by the operator algebras group at Universität Potsdam in Summer 2024. At that time, I had just finished by Bachelor's degree and I barely knew how to write mathematics, so these notes are severely incomplete \& are not very well-written. At the moment, they are superseded by my treatment of von Neumann algebra theory in Operator Algebraic Structures II. 
 
 ---
 

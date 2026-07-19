@@ -36,9 +36,9 @@ UseHugoToc: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-This is the teaching I have been involved with, either officially or unofficially. I will also include various seminars I have organized.
+This is the teaching I have been involved with, either officially or unofficially, including various seminars I have organized. I will also include information about future seminars that I will organize.
 
-## Teaching Assistance
+## Teaching Assistance \& Seminars
 
 Below is a summary of the courses I have been a teaching assistant for.
 
@@ -47,7 +47,7 @@ Below is a summary of the courses I have been a teaching assistant for.
 ### Humboldt-Universität zu Berlin
 
 1. **2025, Summer** *Co-organizer* Higher Categories reading seminar.
-2. **2025-2026, Winter** *Co-organizer* Algebraic K-theory reading seminar.
+2. **2025-2026, Winter** *Co-organizer* Algebraic K-theory reading seminar; see [here](https://abhijeetwatts.github.io/personal-website/teaching/k-theory-seminar.pdf) for the plan.
 
 ### Lund University
 
