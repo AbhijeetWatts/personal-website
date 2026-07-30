@@ -86,7 +86,7 @@ I find myself interested both in solving problems and understanding general stru
 *Grade:* TBD.
 
 **2020--2024.** _Bachelor of Science_ in mathematics, at Lund University, Sweden.\
-*Thesis:* [The Path To Gelfand Duality \& Spectral Theory]().\
+*Thesis:* The Path To Gelfand Duality \& Spectral Theory.\
 *Advisor:* Prof. Dr. Sandra Pott and Dr. Jörg Weber.\
 *Grade:* VG (Pass with distinction).
 
