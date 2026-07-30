@@ -39,7 +39,7 @@ block = true
   url = "https://abhijeetwatts.github.io/personal-website/about-me/"
 
   [[params.profileMode.buttons]]
-  name = "Writings"
+  name = "Written Work"
   url = "https://abhijeetwatts.github.io/personal-website/writings/"
 
   [[params.profileMode.buttons]]
