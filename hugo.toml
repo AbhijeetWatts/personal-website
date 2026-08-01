@@ -15,7 +15,7 @@ block = true
   defaultTheme = "dark"
 
   # [params.assets]
-  # theme_color = "#330500"
+  # theme_color = "#190369"
 
   [params.homeInfoParams]
   Title = "Abhijeet Vats"
