@@ -37,7 +37,7 @@ math: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-I am a PhD student in mathematics at the University of Haifa and the University of Potsdam, working under the supervision of [Adam Dor-On](https://adoronmath.wordpress.com/) and [Sven Raum](https://raum-brothers.eu/sven/).
+I am a (soon-to-be) PhD student in mathematics at the University of Haifa and the University of Potsdam, working under the supervision of [Adam Dor-On](https://adoronmath.wordpress.com/) and [Sven Raum](https://raum-brothers.eu/sven/).
 
 
 See [written work](https://abhijeetwatts.github.io/personal-website/writings/) for a collection of my mathematical work.
