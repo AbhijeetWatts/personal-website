@@ -52,11 +52,35 @@ This page collects some of my writing. Some of this includes writing for researc
 {{<badges>}} {{< arxiv "2410.19161" >}} {{</badges>}}
 {reversed="reversed"} -->
 
+
+---
+
+## BSc. & MSc. Theses
+
+1. **MSc. Thesis.** My master's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/masters-thesis.pdf).
+1. **BSc. Thesis.** My bachelor's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9129834">}} {{</badges>}}
+{reversed="reversed"}
+
+*Note.* Any mistakes in my Bachelor's or Master's thesis should be reported to me so that I can keep a record of them. Much of what I have covered in these theses has been covered in (and has also been expanded upon) in the book projects below, so you're better off referring to them.
+
 ---
 
 ## Expository Notes
 
-The following are a selection of expository notes which I wrote for myself; I find it much easier to learn things when I write about them consistently. Some of my written work has evolved into book projects which I would like to eventually complete. I am putting them here in the hopes that they might be useful to someone and that I can obtain feedback about them. If you do have feedback and/or if you would like to collaborate on some writing project, then send me an email. 
+
+The next few set of notes will be short-form notes which I've made in preparation for a seminar or for some other reason. Most of the content of these notes has been incorporated into my book projects on various aspects of mathematics (see below). 
+
+**The Lueck Approximation Theorem** Available [here](https://abhijeetwatts.github.io/personal-website/writings/seminar-report-on-Ltwo-betti-numbers.pdf). This is a written report for two talks I gave for a [seminar](https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie_Seminare/S_MSc_Topologie_ws2025.html) on \\(L^2\\)-Betti numbers \& their applications. The ultimate goal was to prove Lueck's Approximation Theorem but before that, I had to introduce spectral theory to an audience familiar with the basics of functional analysis. I managed to do this in a (in my opinion) clean way using some basic aspects of \\(C^{\star}\\)-algebra theory. 
+
+**Tomita-Takesaki Modular Theory** Available [here](https://abhijeetwatts.github.io/personal-website/writings/tomita-takesaki-modular-theory-notes.pdf). This is a set of notes that I prepared for a learning seminar on Tomita-Takesaki organized by the operator algebras group at Universität Potsdam in Summer 2024. At that time, I had just finished by Bachelor's degree and I barely knew how to write mathematics, so these notes are severely incomplete \& are not very well-written. At the moment, they are superseded by my treatment of von Neumann algebra theory in Operator Algebraic Structures II. 
+
+
+
+---
+
+## Book Projects
+
+The following are a selection of book projects which evolved from expository notes that I wrote for myself while learning some of these topics. I would eventually like to complete these book projects so that they can become usable resources by future students. I will update their drafts periodically and would appreciate any feedback. If you have feedback or if you would like to collaborate on any of the projects below (or related projects, I'm very open-minded :)), then send me an email.
 
 **Analysis I** To be included here soon.
 
@@ -76,22 +100,8 @@ The following are a selection of expository notes which I wrote for myself; I fi
 
 **Operator Algebraic Structures III** To be included here soon.
 
-**Noncommutative Algebraic Topology I** Available [here](https://abhijeetwatts.github.io/personal-website/writings/nc-alg-top-I.pdf). This is a written set of notes on K-theory and, in general, an exposition of classical stable homotopy theory. Much of the elementary literature on these two topics is separated and it really should not be, given their close connections. This is meant as an introduction to the ideas of homotopy theory for operator algebraists through the lens of K-theory. For the operator K-theory part, we expect familiarity with Operator Algebraic Structures I and for the classical homotopy theory part, we expect familiarity with Topology II. We specify more details in the document. 
+**Noncommutative Algebraic Topology I** Available [here](https://abhijeetwatts.github.io/personal-website/writings/nc-alg-top-I.pdf). This is a written set of notes on K-theory and, in general, an exposition of classical stable homotopy theory. **These topics should be viewed as foundational for students interested in noncommutative geometry**. Much of the elementary literature on these two topics is separated and it really should not be, given their close connections. This is meant as an introduction to the ideas of homotopy theory for operator algebraists through the lens of K-theory. For the operator K-theory part, we expect familiarity with Operator Algebraic Structures I and for the classical homotopy theory part, we expect familiarity with Topology II. We specify more details in the document. 
 
-**Noncommutative Algebraic Topology II** To be included here soon.
+**Noncommutative Algebraic Topology II** To be included here soon. This is a written set of notes which is a continuation of Noncommutative Algebraic Topology I. We carry out some non-trivial computations of (algebraic and operator) K-theory. Our examples are wide-ranging and come in many different flavors, so we introduce and use a lot of mathematics from many different fields. For instance, we spend some time covering spectral sequence methods here because they are relevant for carrying out computations. The prerequisite is Noncommutative Algebraic Topology I and reasonable grounding in homological algebra.
 
-The next few set of notes will be short-form notes which I've made for one reason or another. Most of what's in these notes has been incorporated into my longer sets of notes above just to make sure that things are self-contained. 
-
-**The Lueck Approximation Theorem** Available [here](https://abhijeetwatts.github.io/personal-website/writings/seminar-report-on-Ltwo-betti-numbers.pdf). This is a written report for two talks I gave for a [seminar](https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie_Seminare/S_MSc_Topologie_ws2025.html) on \\(L^2\\)-Betti numbers \& their applications. The ultimate goal was to prove Lueck's Approximation Theorem but before that, I had to introduce spectral theory to an audience familiar with the basics of functional analysis. I managed to do this in a (in my opinion) clean way using some basic aspects of \\(C^{\star}\\)-algebra theory. 
-
-**Tomita-Takesaki Modular Theory** Available [here](https://abhijeetwatts.github.io/personal-website/writings/tomita-takesaki-modular-theory-notes.pdf). This is a set of notes that I prepared for a learning seminar on Tomita-Takesaki organized by the operator algebras group at Universität Potsdam in Summer 2024. At that time, I had just finished by Bachelor's degree and I barely knew how to write mathematics, so these notes are severely incomplete \& are not very well-written. At the moment, they are superseded by my treatment of von Neumann algebra theory in Operator Algebraic Structures II. 
-
----
-
-## BSc. & MSc. Theses
-
-1. **MSc. Thesis.** My master's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/masters-thesis.pdf).
-1. **BSc. Thesis.** My bachelor's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9129834">}} {{</badges>}}
-{reversed="reversed"}
-
-*Note.* Any mistakes in my Bachelor's or Master's thesis should be reported to me so that I can keep a record of them. It should be noted that much of what I have covered in my theses will appear in the expository notes above, in much more detail and (probably) more conceptually written. 
+**Noncommutative Algebraic Topology III** To be included here soon. This is a written set of notes which is a continuation of Noncommutative Algebraic Topology II. We cover bivariant homology theories on categories of \\(C^{\star}\\)-algebras and rings. In particular, we cover the construction of both Kasparov and Cortinas-Thom's KK-theory \& their relationship with operator/algebraic K-theory. We also cover algebraic K-theory in the context of \\(\infty,1)\\-categories, introducing their basic theory synthetically and establishing the universal property of Blumberg-Gepner-Tabuada. Finally, we discuss the higher-categorical enhancements to both KK-theories and this allows us to state (and discuss, to some degree) the isomorphism conjectures.
