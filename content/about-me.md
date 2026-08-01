@@ -98,7 +98,7 @@ Beyond mathematics, I do also have other interests, though I pursue them to vary
 
 ### Dungeons \& Dragons
 
-### Ancient History
+### Ancient Natural/Religious History
 
 ### One Piece 
 
