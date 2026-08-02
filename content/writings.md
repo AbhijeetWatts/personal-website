@@ -55,7 +55,7 @@ This page collects some of my writing. Some of this includes writing for researc
 
 ---
 
-## BSc. & MSc. Theses
+## Theses
 
 1. **MSc. Thesis.** My master's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/masters-thesis.pdf).
 1. **BSc. Thesis.** My bachelor's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9129834">}} {{</badges>}}
