@@ -37,8 +37,7 @@ math: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-This page collects some of my writing. Some of this includes writing for research but a lot of it also includes expository writing. When learning new topics or preparing for a talk, I often find it very helpful to write out notes using LaTeX. This is a habit I picked up in the 2nd year of my undergraduate education and I find that it forces me to explain what I think I understand in my own words. Moreover, it is a useful way of keeping records of ideas and results discussed during various seminars/conferences. 
-
+This page collects some of my written work. It does not, at the moment, contain all of the written work I've ever produced throughout my mathematical life; I hope to get to the point where it does contain all of it. 
 ---
 
 <!-- ## Publications -->
@@ -61,7 +60,7 @@ This page collects some of my writing. Some of this includes writing for researc
 1. **BSc. Thesis.** My bachelor's thesis can be found [here](https://abhijeetwatts.github.io/personal-website/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9129834">}} {{</badges>}}
 {reversed="reversed"}
 
-*Note.* Any mistakes in my Bachelor's or Master's thesis should be reported to me so that I can keep a record of them. Much of what I have covered in these theses has been covered in (and has also been expanded upon) in the book projects below, so you're better off referring to them.
+*Note.* Any mistakes in my Bachelor's or Master's thesis should be reported to me so that I can keep a record of them (and possibly correct them if they are egregious errors). Much of what I have covered in these theses has been subsumed by the notes/book projects below, where I give an even more detailed exposition. 
 
 ---
 
