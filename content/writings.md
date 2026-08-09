@@ -37,11 +37,8 @@ math: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
----
-
 This page collects some of my written work. It does not, at the moment, contain all of the written work I've ever produced throughout my mathematical life; I hope to get to the point where it does contain all of it. 
 
----
 
 <!-- ## Publications -->
 
